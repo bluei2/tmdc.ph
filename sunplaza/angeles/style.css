@@ -483,14 +483,7 @@ h2.slide-btm-text{
     margin-bottom: 30px;   
     font-weight: 300;
 }
-/***supermarket****/
-#supermarket{
-    background: url('img/showcase-supermarket.jpg');
-}
-/***department-store****/
-#department-store{
-    background: url('img/showcase-department-store.jpg');
-}
+
 .service-icon i{
     width:70px;
     height: 70px;
